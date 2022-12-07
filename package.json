@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/FallingKids/chatGPT-bilibili_practice#readme",
   "dependencies": {
-    "axios": "^1.2.1"
+    "@types/cheerio": "^0.22.31",
+    "axios": "^1.2.1",
+    "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",

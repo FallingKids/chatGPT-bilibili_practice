@@ -1,6 +1,6 @@
 import axios, { AxiosInstance, AxiosResponse } from 'axios'
 
-const host = 'https://member.bilibili.com'
+const host = 'https://api.bilibili.com'
 
 class Request {
   private client: AxiosInstance
